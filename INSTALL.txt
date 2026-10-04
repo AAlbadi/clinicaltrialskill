@@ -1,0 +1,6 @@
+clinicaltrialskill Setup Instructions
+===================================
+
+1. All core scripts run using Python 3 built-in standard libraries (urllib, json, csv, gzip).
+2. Optional: Export APOLLO_API_KEY for automatic executive decision maker enrichment.
+3. Warmbly PostgreSQL container deduplication runs automatically if Docker is active.
